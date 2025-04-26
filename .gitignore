@@ -96,7 +96,7 @@ ipython_config.py
 
 # ignore model and environment
 models/*
-chat/
+chat/*
 
 # UV
 #   Similar to Pipfile.lock, it is generally recommended to include uv.lock in version control.
