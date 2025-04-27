@@ -29,7 +29,7 @@ Finally, the text output is displayed immediately on the Streamlit page for revi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/llama2-blog-generator.git
+   https://github.com/boomshineking/llama2-blog-generator
    cd llama2-blog-generator
    ```
 
