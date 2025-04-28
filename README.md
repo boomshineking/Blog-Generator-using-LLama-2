@@ -1,5 +1,8 @@
+This application uses the TinyLlama model, a small and efficient language model inspired by LLaMA 2 architecture.
+The model is made available under the TinyLlama project's license (e.g., Apache 2.0 License).
+Special thanks to the TinyLlama team for their development work.
 
-# 🦙 Llama 2 Blog Generator  with Streamlit (project done thanks to LLAMA model made by META )
+TINY LLAMA 🦙 blog generator (https://huggingface.co/spaces/Richard9905/Richards_Blog_generator)
 
 ## Project Overview
 Imagine being able to generate entire blog articles without relying on external servers or APIs. That's exactly what this project delivers.
