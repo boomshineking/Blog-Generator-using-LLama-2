@@ -1,5 +1,5 @@
 
-# 🦙 Llama 2 Blog Generator (Offline, 7B GGML) with Streamlit
+# 🦙 Llama 2 Blog Generator  with Streamlit (project done thanks to LLAMA model made by META )
 
 ## Project Overview
 Imagine being able to generate entire blog articles without relying on external servers or APIs. That's exactly what this project delivers.
