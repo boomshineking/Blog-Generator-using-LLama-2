@@ -56,6 +56,8 @@ Within seconds, your local blog generator will be live!
 
 ## Screenshots
 ![Screenshot 2025-04-24 224234](https://github.com/user-attachments/assets/636e6dd2-87ab-4939-9bb1-86a64706e7b9)
+![Screenshot 2025-04-28 163943](https://github.com/user-attachments/assets/122d67c5-429d-451d-a7f0-7f728a3a7a27)
+
 
 ## Future 
 Roadmap
