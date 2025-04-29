@@ -59,7 +59,6 @@ Within seconds, your local blog generator will be live!
 ## Future 
 Roadmap
 - Introduce selectable blog writing styles (e.g., technical, casual, storytelling).
-- Enable automatic saving of generated blogs to local files.
 - Improve prompt engineering templates to further boost creativity and coherence.
 
 ## License
@@ -68,3 +67,4 @@ Commercial usage should adhere to the licensing terms associated with Llama 2.
 
 # 🚀 Let's Connect
 Curious about how it all works? Want to collaborate? Feel free to reach out—I'm always up for building something awesome!
+email r10053506@gmail.com
