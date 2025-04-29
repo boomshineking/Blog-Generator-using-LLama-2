@@ -1,8 +1,5 @@
-This application uses the TinyLlama model, a small and efficient language model inspired by LLaMA 2 architecture.
-The model is made available under the TinyLlama project's license (e.g., Apache 2.0 License).
-Special thanks to the TinyLlama team for their development work.
-
-TINY LLAMA 🦙 blog generator (https://huggingface.co/spaces/Richard9905/Richards_Blog_generator)
+                                       
+TINY LLAMA 🦙 blog generator (https://huggingface.co/spaces/Richard9905/Richards_Blog_generator) <-- click this link to check out my deployed model
 
 ## Project Overview
 Imagine being able to generate entire blog articles without relying on external servers or APIs. That's exactly what this project delivers.
