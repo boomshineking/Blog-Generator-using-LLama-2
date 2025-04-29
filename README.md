@@ -55,9 +55,10 @@ Finally, the text output is displayed immediately on the Streamlit page for revi
 Within seconds, your local blog generator will be live!
 
 ## Screenshots
-*(Insert screenshots showcasing the user interface and sample blog outputs.)*
+![Screenshot 2025-04-24 224234](https://github.com/user-attachments/assets/636e6dd2-87ab-4939-9bb1-86a64706e7b9)
 
-## Future Roadmap
+## Future 
+Roadmap
 - Introduce selectable blog writing styles (e.g., technical, casual, storytelling).
 - Enable automatic saving of generated blogs to local files.
 - Improve prompt engineering templates to further boost creativity and coherence.
